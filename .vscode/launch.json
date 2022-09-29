@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.mitocode.anotaciones.App",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColeccionApp",
+            "request": "launch",
+            "mainClass": "com.mitocode.colecciones.ColeccionApp",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(1)",
+            "request": "launch",
+            "mainClass": "com.mitocode.dateapi.App",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch DefaultMethod",
+            "request": "launch",
+            "mainClass": "com.mitocode.defaultMethod.DefaultMethod",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch FuncInterApp",
+            "request": "launch",
+            "mainClass": "com.mitocode.finterface.FuncInterApp",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch HighApp",
+            "request": "launch",
+            "mainClass": "com.mitocode.highorder.HighApp",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaApp",
+            "request": "launch",
+            "mainClass": "com.mitocode.lambda.LambdaApp",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scopes",
+            "request": "launch",
+            "mainClass": "com.mitocode.lambda.Scopes",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sintaxis",
+            "request": "launch",
+            "mainClass": "com.mitocode.lambda.Sintaxis",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(2)",
+            "request": "launch",
+            "mainClass": "com.mitocode.map.App",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch MeRefApp",
+            "request": "launch",
+            "mainClass": "com.mitocode.methodReference.MeRefApp",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch NashApp",
+            "request": "launch",
+            "mainClass": "com.mitocode.nashorn.NashApp",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch OptionalApp",
+            "request": "launch",
+            "mainClass": "com.mitocode.optional.OptionalApp",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch RxApp",
+            "request": "launch",
+            "mainClass": "com.mitocode.rxjava.RxApp",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParallelStream",
+            "request": "launch",
+            "mainClass": "com.mitocode.streams.ParallelStream",
+            "projectName": "java8mito"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamsApp",
+            "request": "launch",
+            "mainClass": "com.mitocode.streams.StreamsApp",
+            "projectName": "java8mito"
+        }
+    ]
+}
